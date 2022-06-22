@@ -1,2 +1,2 @@
 # Mastery
-Landing Page About School Using HTML/CSS
+Layout Simple About School Using HTML/CSS
